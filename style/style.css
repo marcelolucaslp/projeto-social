@@ -24,4 +24,11 @@ section#celular{
     left: 50%;
     transform: translate(-50%, -50%);
 }
+iframe#home{
+    position: relative;
+    top: 12%;
+    left: 7%;
+    width: 85%;
+    height: 76%;
+}
 
